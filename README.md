@@ -77,10 +77,11 @@ In conclusion, the Iris flower classification project successfully employed Rand
 
 ---
 
-Author
+## Author
 Tanishq Gola
 
-References
-Scikit-Learn Documentation
-Iris Dataset
-Python Documentation
+## References
+
+- Scikit-Learn Documentation
+- Iris Dataset
+- Python Documentation
